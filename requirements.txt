@@ -4,8 +4,6 @@ requests
 base64
 json
 time
-python-docx
-requests
 speech_recognition
 datetime
 langdetect
