@@ -1,11 +1,12 @@
 streamlit
 python-docx
 requests
-speechrecognition
-datetime
-speech_recognition
 base64
 json
 time
+python-docx
+requests
+speech_recognition
+datetime
 langdetect
-deep-translator
+deep_translator
