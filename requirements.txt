@@ -2,3 +2,10 @@ streamlit
 python-docx
 requests
 speechrecognition
+datetime
+speech_recognition
+base64
+json
+time
+langdetect
+deep_translator
