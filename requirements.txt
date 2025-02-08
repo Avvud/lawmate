@@ -8,4 +8,4 @@ base64
 json
 time
 langdetect
-deep_translator
+deep-translator
